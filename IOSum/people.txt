@@ -1,0 +1,5 @@
+Ivan,15
+Petr,20
+Anna,10
+Nick,22
+Georg,4
