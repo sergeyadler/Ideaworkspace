@@ -1,0 +1,5 @@
+Person [name=Georg, age=4]
+Person [name=Anna, age=10]
+Person [name=Ivan, age=15]
+Person [name=Petr, age=20]
+Person [name=Nick, age=22]
